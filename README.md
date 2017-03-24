@@ -27,7 +27,7 @@ To use the library, include Composer's [autoload](https://getcomposer.org/doc/00
 
 ## Manual Installation
 
-Obtain the latest version of the PayU Automatic Live Update Client Library with:
+Obtain the latest version of the PayU Card Info V2 Client Library with:
 
     git clone https://github.com/PayU/card-info-v2.git
 
