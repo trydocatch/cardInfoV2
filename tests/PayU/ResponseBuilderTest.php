@@ -7,7 +7,7 @@ use PayU\Exceptions\UnauthorizedAccessException;
 use PayU\Exceptions\UnexpectedResponseException;
 use PHPUnit_Framework_TestCase;
 
-require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/../../vendor/autoload.php';
 
 
 class ResponseBuilderTest extends PHPUnit_Framework_TestCase

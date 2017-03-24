@@ -1,4 +1,4 @@
-# [![Travis CI](https://travis-ci.org/PayU/alu-client-php.svg)](https://travis-ci.org/PayU/alu-client-php) [![Latest Stable Version](https://poser.pugx.org/payu/alu-client/v/stable.svg)](https://packagist.org/packages/payu/alu-client) [![Total Downloads](https://poser.pugx.org/payu/alu-client/downloads.svg)](https://packagist.org/packages/payu/alu-client) [![License](https://poser.pugx.org/payu/alu-client/license.svg)](https://packagist.org/packages/payu/alu-client)
+[![Travis CI](https://travis-ci.org/PayU/card-info-v2.svg)](https://travis-ci.org/PayU/card-info-v2) [![Latest Stable Version](https://poser.pugx.org/payu/card-info-v2/v/stable.svg)](https://packagist.org/packages/payu/card-info-v2) [![Total Downloads](https://poser.pugx.org/payu/card-info-v2/downloads.svg)](https://packagist.org/packages/payu/card-info-v2) [![License](https://poser.pugx.org/payu/card-info-v2/license.svg)](https://packagist.org/packages/payu/card-info-v2)
 
 ## Prerequisites
 
@@ -33,7 +33,7 @@ Obtain the latest version of the PayU Automatic Live Update Client Library with:
 
 To use the Library, add the following to your PHP script:
 
-    require_once("/path/to/card-info-v2/src/PayU/CardInfoClient.php");
+    require_once __DIR__ . '/path/to/card-info-v2/src/init.php';
 
 ## Getting Started
 
